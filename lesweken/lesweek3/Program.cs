@@ -22,8 +22,12 @@ namespace lesweek3
             return a + b;
         }
 
-        int verhogen(int a){
+        static int verhogen(int a){
             return a++;
         }
+
+        static int deling(int a, int b){
+            return a/b;
+        }
     }
-}
+};

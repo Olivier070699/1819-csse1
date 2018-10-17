@@ -1,0 +1,11 @@
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\lesweken\lesweek4\bin\Debug\netcoreapp2.1\lesweek4.deps.json
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\lesweken\lesweek4\bin\Debug\netcoreapp2.1\lesweek4.runtimeconfig.json
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\lesweken\lesweek4\bin\Debug\netcoreapp2.1\lesweek4.runtimeconfig.dev.json
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\lesweken\lesweek4\bin\Debug\netcoreapp2.1\lesweek4.dll
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\lesweken\lesweek4\bin\Debug\netcoreapp2.1\lesweek4.pdb
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\lesweken\lesweek4\obj\Debug\netcoreapp2.1\lesweek4.csprojAssemblyReference.cache
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\lesweken\lesweek4\obj\Debug\netcoreapp2.1\lesweek4.csproj.CoreCompileInputs.cache
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\lesweken\lesweek4\obj\Debug\netcoreapp2.1\lesweek4.AssemblyInfoInputs.cache
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\lesweken\lesweek4\obj\Debug\netcoreapp2.1\lesweek4.AssemblyInfo.cs
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\lesweken\lesweek4\obj\Debug\netcoreapp2.1\lesweek4.dll
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\lesweken\lesweek4\obj\Debug\netcoreapp2.1\lesweek4.pdb
