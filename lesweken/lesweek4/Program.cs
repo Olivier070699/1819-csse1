@@ -57,8 +57,28 @@ namespace lesweek4
             // }
             // static int result(int a , int b, int c, int d){
             //     return a+b+c+d;
-            // }
+            // };
 
+            // febonaci
+            int first = 0;
+            int second = 1;
+            int stappen = 20;
+            Console.WriteLine("Na " + stappen + " maal de regel van febonaci uit te voeren krijgen we volgende getallen:");
+            for(int z=1; z <= stappen; z++){
+                int fs = first+second;
+                Console.WriteLine(fs);
+                first = second;
+                second = fs;
+            }
+
+            // faculteit
+            int faculteit = 15;
+            int ab = 1;
+            for(int aa=1; aa<=faculteit; aa++){
+                int product = ab*aa;
+                ab = product;
+            }
+            Console.WriteLine("De faculteit van " + faculteit + " is gelijk aan " + ab);
         }
     }
 }
