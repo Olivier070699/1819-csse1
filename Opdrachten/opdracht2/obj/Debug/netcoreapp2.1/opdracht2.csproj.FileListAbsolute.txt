@@ -1,0 +1,11 @@
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.deps.json
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.runtimeconfig.json
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.runtimeconfig.dev.json
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.dll
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\opdrachten\opdracht2\bin\Debug\netcoreapp2.1\opdracht2.pdb
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.csprojAssemblyReference.cache
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.csproj.CoreCompileInputs.cache
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.AssemblyInfoInputs.cache
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.AssemblyInfo.cs
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.dll
+C:\Users\OLIVIER\Documents\GitHub\1819-csse1\opdrachten\opdracht2\obj\Debug\netcoreapp2.1\opdracht2.pdb

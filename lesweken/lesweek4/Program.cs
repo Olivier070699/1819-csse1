@@ -72,7 +72,7 @@ namespace lesweek4
             }
 
             // faculteit
-            int faculteit = 15;
+            int faculteit = 19;
             int ab = 1;
             for(int aa=1; aa<=faculteit; aa++){
                 int product = ab*aa;
