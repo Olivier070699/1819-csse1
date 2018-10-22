@@ -5,7 +5,8 @@ namespace opdracht2
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
+            // febonaci
             int first = 0;
             int second = 1;
             int stappen = 20;
@@ -18,13 +19,20 @@ namespace opdracht2
             }
 
             // faculteit
-            int faculteit = 19;
+            int faculteit = 13;
             int ab = 1;
             for(int aa=1; aa<=faculteit; aa++){
                 int product = ab*aa;
                 ab = product;
             }
             Console.WriteLine("De faculteit van " + faculteit + " is gelijk aan " + ab);
+
+            // tafels
+            int start = 5;
+            for(int zz=0; zz<=10; zz++){
+                int vermeningvuldigen = 5*zz;
+                Console.WriteLine(start + "x" + zz + "=" + vermeningvuldigen);
+            }
         }
     }
 }
