@@ -27,11 +27,22 @@ namespace opdracht2
             }
             Console.WriteLine("De faculteit van " + faculteit + " is gelijk aan " + ab);
 
-            // tafels
-            int start = 5;
-            for(int zz=0; zz<=10; zz++){
-                int vermeningvuldigen = 5*zz;
-                Console.WriteLine(start + "x" + zz + "=" + vermeningvuldigen);
+            // ALLE TAFELS
+            for (int x = 0; x <= 10; x++){
+                Console.WriteLine("De tafel van " + x + ":");
+                for (int y = 0; y <= 10; y++){
+                    int uitkomst = y*x;
+                    Console.WriteLine(y + " maal " + x + " is gelijk aan " + uitkomst);
+                }
+            }
+
+            // VERMENIGVULDIGEN
+            Console.WriteLine("Geef een specifiek getal om nog eens te vermenigvuldigen");
+            int tafel = Int32.Parse(Console.ReadLine()); // GETAL OPVRAGEN
+            for (int i = 0; i <= 10; i++)
+            {
+                int vermenigvuldiging = tafel*i;
+                Console.WriteLine(tafel + " maal " + i + " is gelijk aan " + vermenigvuldiging);
             }
         }
     }
