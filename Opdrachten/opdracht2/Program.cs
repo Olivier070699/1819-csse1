@@ -9,7 +9,8 @@ namespace opdracht2
             // febonaci
             int first = 0;
             int second = 1;
-            int stappen = 20;
+            Console.WriteLine("Hoeveel keer mag de regel van febonaci uigevoerd worden?");
+            int stappen = Int32.Parse(Console.ReadLine());
             Console.WriteLine("Na " + stappen + " maal de regel van febonaci uit te voeren krijgen we volgende getallen:");
             for(int z=1; z <= stappen; z++){
                 int fs = first+second;
@@ -19,7 +20,8 @@ namespace opdracht2
             }
 
             // faculteit
-            int faculteit = 5;
+            Console.WriteLine("Geef een getal om de faculteit van te bereken");
+            int faculteit = Int32.Parse(Console.ReadLine());
             int ab = 1;
             for(int aa=1; aa<=faculteit; aa++){
                 int product = ab*aa;
