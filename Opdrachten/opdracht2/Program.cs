@@ -19,7 +19,7 @@ namespace opdracht2
             }
 
             // faculteit
-            int faculteit = 13;
+            int faculteit = 5;
             int ab = 1;
             for(int aa=1; aa<=faculteit; aa++){
                 int product = ab*aa;
