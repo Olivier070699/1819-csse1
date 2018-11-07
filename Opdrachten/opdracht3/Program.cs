@@ -34,7 +34,14 @@ namespace opdracht3
             if(antw == 1){
                 Console.WriteLine("Geef de naam op van het gene dat u wenst.");
                 int name_antw = Int32.Parse(Console.ReadLine());
-                // AANVULLEN
+                for (int a = 0; a <= lijst.Length; a++)
+                {
+                    if(name_antw = lijst[a]){
+                        Console.WriteLine("U had graag " + lijst[a] + " gehad? Dat is dan " + prijs[a] + "euro");
+                    }else{
+                        Console.WriteLine("U heeft een foutieve naam opgegeven");
+                    }
+                }
             }else if(antw == 2){
                 Console.WriteLine("Geef het volgnummer van het gene dat u wenst.");
                 int number_antw = Int32.Parse(Console.ReadLine());
