@@ -6,7 +6,7 @@ namespace opdracht3
     {
         static void Main(string[] args)
         {      
-        string[] lijst = new string[7];
+        string[] lijst = new string[10];
         lijst[0] = "Plat Water";
         lijst[1] = "Cola 25 cl";
         lijst[2] = "Cola 33 cl";
@@ -15,7 +15,7 @@ namespace opdracht3
         lijst[5] = "Toast";
         lijst[6] = "Kaasplank";
 
-        string[] prijs = new string[7];
+        string[] prijs = new string[10];
         prijs[0] = "1";
         prijs[1] = "1,50";
         prijs[2] = "2";
@@ -29,19 +29,12 @@ namespace opdracht3
             Console.WriteLine(lijst[i] + " kost " + prijs[i] + " euro.");
         }
 
-        Console.WriteLine("Wenst u te selecteren op naam, toets 1, of op volgnummer, toets 2?");
+        Console.WriteLine("Wenst u te selecteren op naam toets 1, of op volgnummer toets 2, als u iets wil verwijderen toets 3, wil je iets toevoegen toets 4");
         int antw = Int32.Parse(Console.ReadLine());
             if(antw == 1){
                 Console.WriteLine("Geef de naam op van het gene dat u wenst.");
                 int name_antw = Int32.Parse(Console.ReadLine());
-                for (int a = 0; a <= lijst.Length; a++)
-                {
-                    if(name_antw = lijst[a]){
-                        Console.WriteLine("U had graag " + lijst[a] + " gehad? Dat is dan " + prijs[a] + "euro");
-                    }else{
-                        Console.WriteLine("U heeft een foutieve naam opgegeven");
-                    }
-                }
+                
             }else if(antw == 2){
                 Console.WriteLine("Geef het volgnummer van het gene dat u wenst.");
                 int number_antw = Int32.Parse(Console.ReadLine());
@@ -49,9 +42,14 @@ namespace opdracht3
                 if(correct_number <= 6 && correct_number>=0){
                     Console.WriteLine("U had graag een " + lijst[correct_number] + " gehad? Dat is dan " + prijs[correct_number] + " euro");
                 }else{
-                    Console.WriteLine("U heeft een onheldig nummer ingegeven.");
+                    Console.WriteLine("Je hebt een ongeldig nummer ingevoerd.");
                 }
-            }
+            }else if(antw == 3){
+                    Console.WriteLine("Toest het nummer van het element in dat u wilt verwijderen");
+                    int del_number = Int32.Parse(Console.ReadLine());
+                    int del_cr_number = del_number -1;
+                    // lijst.Remove(del_cr_number);
+                }
         }
     }
 }
