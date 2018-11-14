@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\OLIVIER\\Documents\\GitHub\\1819-csse1\\Opdrachten\\Test\\test.csproj",
-      "projectName": "test",
-      "projectPath": "c:\\Users\\OLIVIER\\Documents\\GitHub\\1819-csse1\\Opdrachten\\Test\\test.csproj",
+      "projectUniqueName": "C:\\Users\\OLIVIER\\Documents\\GitHub\\1819-csse1\\lesweken\\lesweek5\\lesweek5.csproj",
+      "projectName": "lesweek5",
+      "projectPath": "C:\\Users\\OLIVIER\\Documents\\GitHub\\1819-csse1\\lesweken\\lesweek5\\lesweek5.csproj",
       "packagesPath": "C:\\Users\\OLIVIER\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\OLIVIER\\Documents\\GitHub\\1819-csse1\\Opdrachten\\Test\\obj\\",
+      "outputPath": "C:\\Users\\OLIVIER\\Documents\\GitHub\\1819-csse1\\lesweken\\lesweek5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
