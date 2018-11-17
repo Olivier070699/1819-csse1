@@ -1,0 +1,28 @@
+Wat is het verschil tussen front end back end? 
+-	Front end bestaat voornamelijk uit HTML, Css & javascript dit draait allemaal in de browser en zorgt zo voor de graphical user interface. Back end bestaat uit bv java, C#, Phython, PHP, SQL, … deze code draait op de server en is onzichtbaar voor de gebruiker.
+
+Geef 5 voorbeelden van front end framework. 
+1.	Bootstrap
+2.	Semantic-UI
+3.	Foundation
+4.	Materialize
+5.	Material UI
+
+Geef 5 voorbeelden van back end frameworks. 
+1.	Symfony
+2.	Laravel
+3.	Zend
+4.	Codelgniter
+5.	Yii2
+
+Welke zijn de populairste back end en front end frameworks?
+1.	Codelgniter
+2.	Laravel
+3.	Symfony
+4.	cakePHP
+5.	AngularJS
+6.	Bootstrap
+7.	.NET Framework
+8.	React
+9.	Ruby on Rails
+10.	Django
