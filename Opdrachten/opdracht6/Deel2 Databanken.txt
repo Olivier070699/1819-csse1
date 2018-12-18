@@ -1,0 +1,10 @@
+Wat is een databank? 
+•	Een databank bestaat uit programma's die gemaakt zijn om informatie mee op te slaan en te beheren. Je kunt je een database voorstellen als een virtuele archiefkast… Maar dan met wat extra toeters en bellen.
+
+Welke databanken zijn er? 
+•	Relationele databases
+•	Objectgeoriënteerde databases
+•	Flat file databases.
+
+Wat zijn de verschillen?
+Bij een relationele database worden de gegevens opgeslagen in tabellen waarin de rijen de soortgelijke groepen informatie, de records vormen, en de kolommen de informatie die voor elk record moet worden opgeslagen. Bij object georiënteerd wordt er met objecten gewerkt en bij flat file met een eenvoudige tabel, waarbij alle elementen in dezelfde kolom gelijksoortige waarden bevatten, terwijl alle elementen van een rij aan elkaar gerelateerd zijn.

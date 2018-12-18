@@ -1,0 +1,9 @@
+Deel 1: Dataformaten. Maak een onderzoeksverslag omtrent de gebruikelijke dataformaten om data uit te wisselen. En geef een antwoord op volgende vragen: 
+- Wat is een dataformaat? 
+•	Een data formaat is in de informatica een specifiek soort gegevens, zoals integers, booleans, reals, karakters, strings. In een programmeertaal wordt met iedere variabele een datatype geassocieerd. Dit datatype bepaalt welke waarden de variabele of de expressie kan aannemen, hoe deze waarden in het geheugen worden opgeslagen en welke bewerkingen op de variabele of de expressie uitgevoerd kunnen worden.
+- Welke dataformaten zijn er? 
+•	Interne 
+•	Externe 
+- Wat zijn de verschillen?
+•	Intern is de manier waarop gegevens in het programma worden opgeslagen.
+•	Extern is de manier waarop gegevens in bestanden worden opgeslagen.
