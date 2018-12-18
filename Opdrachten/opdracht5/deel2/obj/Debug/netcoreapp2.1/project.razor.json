@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\OLIVIER\\Documents\\GitHub\\1819-csse1\\Opdrachten\\opdracht5\\deel2\\deel2.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
